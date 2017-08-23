@@ -1,0 +1,67 @@
+.headlinetitle {
+	font-size: 1.8em;
+    margin-top: 0;
+	color:#e0bc75;
+	font-family:"Lucida Console", Monaco, monospace;
+}
+
+.subheadlinetitile{
+    font-size: 25px;
+}
+
+.carousel-caption p{
+	text-align:left;
+	font-size: 25px;
+	padding-left:131px;
+	line-height: 28px;
+}
+
+.carousel-caption {
+	width:70%;
+	top: 12%;
+}
+
+.submit-btn {
+    display: block;
+    color: #e0bc75;
+    border-radius: 4px;
+	height:54px;
+    line-height: 54px;
+    font-size: 25px;
+    margin-left: 114px;
+    margin-right: 73px;
+    border: solid 1px #e0bc75;
+    
+}
+
+.bg-footer {
+	margin-top:30px;
+}
+
+
+/*video { 
+	position: fixed;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -100;
+}
+.polina { 
+	  display: block;
+	  width: 80%;
+	  padding: .4rem;
+	  border: none; 
+	  margin: 1rem auto; 
+	  font-size: 1.3rem;
+	  background: rgba(255,255,255,0.23);
+	  color: #fff;
+	  border-radius: 3px; 
+	  cursor: pointer;
+	  -webkit-transition: .3s background;
+	  transition: .3s background;
+}*/
+
+
+
+
